@@ -117,7 +117,7 @@ otlc_labs:
       dialog_environment: PROD
       dialog_expiration: "6"
       dialog_notes: "Customer Activity - Customer environment testing"
-      dialog_region: na_sandbox_gpte
+      dialog_region: emea_sandbox_gpte
       dialog_runtime: "8"
 
   # Cannot add records to the DNS zone, shuts down after 8 hours
